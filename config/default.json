@@ -1,0 +1,6 @@
+{
+    "sessionKey":"secret_session_key",
+    "sendGridAPIKey":"<sendgrid-api-key>",
+    "otpRequired":true,
+    "mongodb_uri":"<mongodb-url>"
+}
